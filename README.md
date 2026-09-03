@@ -26,10 +26,9 @@
 
 ### 🎯 **Engineering Specialization & Focus**
 
-* 🏆 **Algorithms & High-Performance Computing:** Competitive programmer focusing on cache-friendly data structures, graph theory, dynamic programming, and low-level memory optimizations in Modern **C++**. Target: **IOI Candidate**.
+* 🏆 **Algorithms & High-Performance Computing:** Competitive programmer focusing on cache-friendly data structures, and low-level memory optimizations in Modern **C++**. Target: **IOI Candidate**.
 * ⚙️ **Backend & Database Systems:** Designing scalable backend architectures in **Python** (`asyncio`, OOP design patterns) and optimizing heavy relational storage using **PostgreSQL** (query execution plan analysis, index tuning, transaction isolation, triggers, and complex views).
-* 🛡️ **Security & Reverse Engineering:** Systems research on **Kali Linux**. Hands-on experience with native code injection, memory patching (UE4SS), network analysis, and vulnerability assessments.
-* 🎮 **Systems & Game Mechanics:** Engine-level development in **Unity / C#**. Built custom physics interactions, responsive FPS movement architecture, state machines, and weapon hitscan/projectile pipeline engines.
+* 🛡️ **Security & Reverse Engineering:** Systems research on **Kali Linux**.
 * 🤖 **Workflow Automation:** Designing enterprise Telegram integrations and automated backend microservices via custom APIs and webhook structures.
 
 ---
@@ -38,22 +37,12 @@
 
 **Languages, Frameworks & Infrastructure:**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,python,postgres,unity,kali,bash,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,python,postgres,kali,bash,linux&theme=dark" />
 </p>
 
 **Tooling & Environments:**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,wireshark&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm&theme=dark" />
 </p>
 
 ---
-
-### 📈 **Activity & Contributions**
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Musi596&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e5c07b,50:98c379,100:61afef&height=100&section=footer" width="100%"/>
-</div>
