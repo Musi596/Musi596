@@ -14,7 +14,7 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org)
 [![Unity](https://img.shields.io/badge/Unity_Engine-101010?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
 [![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C93?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org/)
-[![Telegram](https://img.shields.io/badge/Telegram-@SeattleWLF-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/SeattleWLF)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Sybauzxz)
 
 </div>
 
