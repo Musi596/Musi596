@@ -82,4 +82,4 @@ inline const Developer me{
 
 ## 📬 Контакты
 
-[Telegram](https://t.me/twinems) · [Codeforces](https://codeforces.com/profile/Musi596) 
+[Telegram](https://t.me/twinems) · [Codeforces](https://codeforces.com/profile/moyttac708) 
