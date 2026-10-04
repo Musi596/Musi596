@@ -41,7 +41,7 @@ inline const Developer me{
     .role     = "Backend Engineer",
     .focus    = "async services, data modeling, query performance",
 
-    .backend  = {"Python", "asyncio", "aiogram 3", "FSM", "REST API", "webhooks", "Telegram integrations"},
+    .backend  = {"Python", "asyncio", "aiogram 3", "FSM", "Telegram integrations"},
     .databases = {"PostgreSQL + asyncpg: EXPLAIN ANALYZE, indexes, isolation levels, triggers, views"},
     .security = {"Kali Linux", "Nmap", "sqlmap", "reverse engineering"},
     .languages = {"Python", "C++20", "Bash"},
@@ -69,9 +69,8 @@ inline const Developer me{
 - **Цель:** Grey Team, специалист, который понимает обе стороны
 - **Правила:** только легальные цели: собственные лаборатории, CTF и учебные платформы
 
-## 🚀 Избранные проекты
+## 🚀 Избранные проект
 
-<!-- Вставь 2–4 репозитория: что делает, какую задачу решает, измеримый результат -->
 - **[Company-Support-Bot](https://github.com/Musi596/Company-Support-Bot)** — Telegram-система поддержки для учебного центра программирования SoftClub
   - Стек: Python 3.10+, aiogram 3, asyncpg, PostgreSQL, Docker
   - Тикеты: обращения, жалобы и вопросы со статусами (`open` / `closed`), ответы администратора прямо из бота
