@@ -81,4 +81,4 @@ inline const Developer me{
 
 ## 📬 Контакты
 
-[Telegram](https://t.me/twinems) · [Codeforces](https://codeforces.com/profile/moyttac708) 
+[Telegram](https://t.me/twinemsss) · [Codeforces](https://codeforces.com/profile/moyttac708) 
